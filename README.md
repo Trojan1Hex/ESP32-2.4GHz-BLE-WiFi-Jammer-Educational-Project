@@ -2,6 +2,7 @@
 This project is developed strictly for educational purposes. Do not use it for unethical or illegal activities.
 
 
+![WhatsApp Image 2026-04-06 at 11 47 18 AM](https://github.com/user-attachments/assets/1d423292-0565-4eb1-a99d-656da77b5054)
 
 🔧 Hardware Notes
 
